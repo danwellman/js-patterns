@@ -1,0 +1,16 @@
+{
+  "name": "jspatterns",
+  "version": "1.0.0",
+  "description": "Code examples for the Put Design Patterns into Practice course from Tuts+",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "design",
+    "patterns"
+  ],
+  "author": "Dan Wellman <danwellman@hotmail.com> (danwellman.co.uk)",
+  "license": "MIT"
+}

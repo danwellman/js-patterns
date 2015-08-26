@@ -1,0 +1,21 @@
+{
+  "name": "jspatterns",
+  "version": "1.0.0",
+  "authors": [
+    "Dan <danwellman@hotmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "requirejs": "~2.1.20"
+  }
+}
